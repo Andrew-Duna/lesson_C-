@@ -1,0 +1,15 @@
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\bin\Debug\net6.0\Exampel_01.exe
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\bin\Debug\net6.0\Exampel_01.deps.json
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\bin\Debug\net6.0\Exampel_01.runtimeconfig.json
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\bin\Debug\net6.0\Exampel_01.dll
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\bin\Debug\net6.0\Exampel_01.pdb
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.csproj.AssemblyReference.cache
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.AssemblyInfoInputs.cache
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.AssemblyInfo.cs
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.dll
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\refint\Exampel_01.dll
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.pdb
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\Exampel_01.genruntimeconfig.cache
+D:\GeekBrains\1 четверть\C#\lesson\Exampel_01\obj\Debug\net6.0\ref\Exampel_01.dll
